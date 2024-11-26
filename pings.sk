@@ -1,11 +1,7 @@
-options:
+#Made by NN_Blaster
+#Usable under MIT License
 
-#   Permission: skPinger.pings + skPinger.command
-#
-#   Requires:
-#   - SkBee
-#   - Skript 2.7.2
-#
+options:
 	chat color: &f # White
 	ping color: &e
 	ping message: @%loop-player%
